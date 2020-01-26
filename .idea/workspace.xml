@@ -145,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580018475116" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580018786647" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -300,6 +300,14 @@
       <option name="presentableId" value="Default" />
       <updated>1579318378655</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit to &quot;super-duper&quot; master branch">
+      <created>1580018654465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580018654465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -345,6 +353,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="102" y="23" width="1400" height="798" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.29086894" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" visible="true" weight="0.29086894" />
@@ -401,6 +410,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit to &quot;super-duper&quot; master branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit to &quot;super-duper&quot; master branch" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testng.xml.html" />
